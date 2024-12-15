@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<lcprojit projname="test" appname="test" is_acc_mode="0" pkgname="testv1">
+    <lua entry="main.lua">
+        <file name="status.lua"/>
+        <file name="detection.lua"/>
+        <file name="common_define.lua"/>
+        <file name="json.lua"/>
+        <file name="walk.lua"/>
+        <file name="map_proc.lua"/>
+        <file name="map_datas.lua"/>
+        <file name="city_mission"/>
+    </lua>
+    <rc entry="test.rc"/>
+    <ui entry="test.ui"/>
+    <luaej entry="">
+        <file name=""/>
+    </luaej>
+</lcprojit>
